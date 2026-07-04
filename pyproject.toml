@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-judge-calibration"
+version = "0.1.0"
+description = "Calibrate an LLM-as-judge against human labels: Cohen's kappa, accuracy with a 95 percent CI, position and verbosity bias probes, and an honest reliable-for-X-not-Y verdict. Offline, stdlib-only."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Ben Godgart" }]
+keywords = ["llm", "evals", "llm-as-judge", "calibration", "cohens-kappa", "bias", "statistics"]
+dependencies = []
+
+[project.scripts]
+judgecal = "judgecal.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/bengodgart/llm-judge-calibration"
+
+[tool.setuptools]
+packages = ["judgecal"]
