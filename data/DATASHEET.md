@@ -1,4 +1,4 @@
-# Datasheet — LLM-as-judge calibration sample set (v0.1.0)
+# Datasheet: LLM-as-judge calibration sample set (v0.1.0)
 
 A datasheet in the spirit of Gebru et al., "Datasheets for Datasets."
 

@@ -1,4 +1,4 @@
-# Parking lot — llm-judge-calibration
+# Parking lot: llm-judge-calibration
 
 Ideas that surfaced during the v1 build. NOT in v1 scope.
 
