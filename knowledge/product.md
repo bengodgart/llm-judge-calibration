@@ -8,7 +8,7 @@ lifecycle: 'shipped. Published on GitHub as a CLI; there is no hosted version.'
 pricing: 'Free. MIT licensed, no API key and no cost to run.'
 generated:
   by: claude-opus-5
-  at: '2026-07-29T04:24:12+00:00'
+  at: '2026-07-29T04:31:42+00:00'
 status: stable
 resource: https://github.com/bengodgart/llm-judge-calibration.git
 ---
