@@ -11,7 +11,7 @@ network: 'None. No API key, fully offline.'
 tests: 'python -m pytest -q, 21 tests'
 generated:
   by: claude-opus-5
-  at: '2026-07-29T05:00:00+00:00'
+  at: '2026-07-29T04:24:12+00:00'
 status: stable
 ---
 

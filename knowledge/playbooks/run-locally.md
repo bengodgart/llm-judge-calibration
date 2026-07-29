@@ -4,7 +4,7 @@ title: Run llm-judge-calibration locally
 description: 'How to calibrate an LLM judge against human labels on a dev machine.'
 generated:
   by: claude-opus-5
-  at: '2026-07-29T05:00:00+00:00'
+  at: '2026-07-29T04:24:12+00:00'
 status: stable
 ---
 
